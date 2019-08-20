@@ -2,7 +2,7 @@ var app={};
 
 app.params = {
     urlFusionTable : "https://www.googleapis.com/fusiontables/v1/query",
-    idFusionTable: "1nc3DvwrkGUWOJDUrB9CdxHdqbm0S8mxZLCReRDg",
+    idFusionTable: "1MpKDeZLwKJ5K9vIpWpBZFK88uG_BzQCXAO3UaMyS",
     keyFusionTable: "AIzaSyC59BP_KRtQDLeb5XM_x0eQNT_tdlBbHZc"
 }
 
